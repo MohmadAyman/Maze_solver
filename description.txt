@@ -1,0 +1,2 @@
+this programme takes a "txt" file containing a Matrix,and the entrance cordination ,its treated a a meze ,1s are the walls ,it then outputs the 
+right path to solve the maze in a new txt file .
